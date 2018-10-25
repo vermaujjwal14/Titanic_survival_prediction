@@ -1,1 +1,1 @@
-# Titanic_survival_prediction
+The dataset is from kaggle's famous Titanic Survival predictions aimed for the biginners.The various features contained in the dataset were explored using various plots, some missing values were imputed using basic strategy.The features were looked up for highest correlation with target variable and on the basis of plots some features were dropped.Linear regression model was implemented and with cross validation got score of 78.5% and with submission script on kaggle got a score of 76%
